@@ -8,4 +8,4 @@ To Add our Bot to your Server, click [here](https://discord.com/oauth2/authorize
 
 ## Reporting Isssues
 
-If you get error while using our bot or find any bog or Track Status of Bot feel free to Join our Support server by clicking [here](https://discord.gg/9V3Da7p5Ye)
+If you get error while using our bot or find any bugs or to Track Status of Bot feel free to Join our Support server by clicking [here](https://discord.gg/9V3Da7p5Ye)
